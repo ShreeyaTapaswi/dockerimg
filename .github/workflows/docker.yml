@@ -19,5 +19,5 @@ jobs:
         with:
           push: true
           tags: |
-            shreeyatapaswi/docker-image:latest
-            shreeyatapaswi/docker-image:24f2004399
+            shreeyatapaswi/dockerimg:latest
+            shreeyatapaswi/dockerimg:24f2004399
